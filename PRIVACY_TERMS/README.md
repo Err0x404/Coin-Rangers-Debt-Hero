@@ -35,7 +35,7 @@ If you have any questions regarding privacy, please contact: [fukubulsht@protonm
 By downloading, installing, or using the Game, you agree to be bound by these Terms of Service.
 
 ## 2. Intellectual Property
-* The Game (including the brand content of Frost & Decay | The Secret Garden) and all its artwork, executable assets, music, and characters are the exclusive property of the developer.
+* The Game (including the brand content of "Coin Rangers-Debt Hero" and "Shoter's Game Life") and all its artwork, executable assets, music, and characters are the exclusive property of the developer.
 * You are granted a "license to use" the game executable (APK), not ownership. **These terms do not include any license to the source code.**
 
 ## 3. Distribution Channels and Security
