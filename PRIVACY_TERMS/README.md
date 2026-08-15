@@ -1,3 +1,10 @@
+# Privacy Policy
+
+You can view our Privacy Policy here:
+For more information about how we collect, use, and protect your data, please read our Privacy Policy.
+
+----------
+
 
 # Privacy Policy
 
