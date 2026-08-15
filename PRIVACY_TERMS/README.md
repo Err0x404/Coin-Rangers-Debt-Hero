@@ -16,7 +16,7 @@ We do not collect your data. The use of data by third-party advertisers is gover
 The Game only requests necessary permissions required for gameplay operation (such as storage read/write access). We will not use these permissions for any other purposes.
 
 ## 4. Contact Us
-If you have any questions regarding privacy, please contact: [Your Email Address].
+If you have any questions regarding privacy, please contact: [fukubulsht@protonmail.com].
 
 ------
 
