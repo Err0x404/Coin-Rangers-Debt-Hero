@@ -3,7 +3,7 @@
 
 **Last updated:** August 16, 2026
 
-We value your privacy. This game (hereinafter referred to as the "Game") operates in an offline, single-player mode, and its core design principle is to protect user privacy.
+We value your privacy. This game[Coin Rangers-Debt Hero] (hereinafter referred to as the "Game") operates in an offline, single-player mode, and its core design principle is to protect user privacy.
 
 ## 1. Data Collection
 * **The Game Itself:** The Game does not require you to register an account, nor does it collect, store, or transmit any Personally Identifiable Information (PII).
