@@ -24,6 +24,10 @@ A healing game combining a relaxing music player, color-matching blocks, and tex
 
 ---
 
+• GitHub Link
+
+https://github.com/Err0x404/Coin-Rangers-Debt-Hero
+
 ## Releases
 
 • GitHub Releases (Recommended)
