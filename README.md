@@ -44,7 +44,7 @@ https://github.com/Err0x404/Coin-Rangers-Debt-Hero/tree/main/installers
 
 • APKPure (Stable Legacy Version, may have delayed updates)
 
-[https://apkpure.com/p/com.shotersgamelife.notouch.app
+[https://apkpure.com/p/com.coinrangersdebthero.shotersgamelife
 ](https://apkpure.com/p/com.coinrangersdebthero.shotersgamelife)
 
 •Visit our "APKPure" [official web page] or explore the project documentation and updates on GitHub.
