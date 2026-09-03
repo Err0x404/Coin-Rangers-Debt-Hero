@@ -4,6 +4,11 @@ This app combines a relaxing stress-relief music player with color-matching bloc
 
 Open it whenever you want to play, or close the game anytime to enjoy relaxing music. It also features built-in support for custom playlists.
 
+<!-- 圖片置中 -->
+<p align="center">
+  <img src="./Pictures/Playlogo01" width="600" alt="Banner">
+</p>
+
 ## About
 
 * **🎶 Relaxing Stress-Relief Music Player**: Built-in soothing ambient and background music with full support for custom playlists. Whether playing along with the music or simply closing the game to listen, let your mind completely unwind.
@@ -14,6 +19,10 @@ Open it whenever you want to play, or close the game anytime to enjoy relaxing m
 
 * **🍃 Play Anytime, Seamless Switching**: Offline play support without network restrictions. Play or close whenever you want, switching freely between music and gaming.
 
+<!-- 圖片置中 -->
+<p align="center">
+  <img src="./Pictures/Logo Banner01.jpg" width="600" alt="Banner">
+</p>
 
 ---
 
