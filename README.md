@@ -47,14 +47,6 @@ https://github.com/Err0x404/Coin-Rangers-Debt-Hero/releases
 
 https://github.com/Err0x404/Coin-Rangers-Debt-Hero/tree/main/installers
 
----
-
-## Mirrors
-
-• APKPure (Stable Legacy Version, may have delayed updates)
-
-[https://apkpure.com/p/com.coinrangersdebthero.shotersgamelife
-](https://apkpure.com/p/com.coinrangersdebthero.shotersgamelife)
 
 
 ---
