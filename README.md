@@ -60,7 +60,7 @@ https://apkpure.com/p/com.shotersgamelife.notouch.app
 
 * **Official App Web Page**: 
 
-[https://notouch.apk.com/](https://coinrangers.apk.com)
+[https://coinrangers.apk.com](https://coinrangers.apk.com)
 
 ---
 
