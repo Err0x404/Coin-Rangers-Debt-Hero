@@ -6,7 +6,7 @@ Open it whenever you want to play, or close the game anytime to enjoy relaxing m
 
 <!-- 圖片置中 -->
 <p align="center">
-  <img src="./Pictures/Playlogo02" width="600" alt="Banner">
+  <img src="./Pictures/Playlogo02.jpg" width="600" alt="Banner">
 </p>
 
 ## About
