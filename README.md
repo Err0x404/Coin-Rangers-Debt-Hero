@@ -58,7 +58,7 @@ https://apkpure.com/p/com.shotersgamelife.notouch.app
 
 • itch.io (Stable Legacy Version, may have delayed updates)
 
-https://shotersgamelife.itch.io/coin-rangers-debt-heropuzzle-music-relaxation
+https://shotersgamelife.itch.io/coin-rangers-debt-hero
 
 •Visit our "APKPure" [official web page] or explore the project documentation and updates on GitHub.
 
