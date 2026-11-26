@@ -43,11 +43,6 @@ https://github.com/Err0x404/Coin-Rangers-Debt-Hero
 
 https://github.com/Err0x404/Coin-Rangers-Debt-Hero/releases
 
-• GitHub Installers (Legacy)
-
-https://github.com/Err0x404/Coin-Rangers-Debt-Hero/tree/main/installers
-
-
 ---
 
 ## Mirrors
